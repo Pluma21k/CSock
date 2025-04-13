@@ -80,12 +80,6 @@ class Program
 - ✅ Built-in diagnostics
 
 ---
-
-## 📝 License
-
-**MIT License**  
-© 2025 [Your Name]
-
 ---
 
 ## 🤝 Contributing
